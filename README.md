@@ -87,5 +87,14 @@ you can launch main window by executing the following command
 ```
 
 ## License
+Pending Task - 
+
+1. Promotion - Demotion - Run a background process, identify pages not using contiguous accesses, identify pages in need of contiguous accesses - heuristic
+2. PTE entries - Sorted Dictionary, Queue for LRU
+3. TLB - Sorted Dictionary, Queue for LRU, Fixed Length - Evict LRU
+4. Page - Range : Start - End
+5. Time - TLB access, PT access, HD access time -- Add dirty bit to Adress Translation Mapping( TLB and PT )
+6. Graphs - Benchmarks - Loads
+7. Pin Tool 
 
 The MIT License 2015 (c) tody
